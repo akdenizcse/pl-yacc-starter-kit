@@ -27,6 +27,9 @@ This is a logic language which allows only conjunction and printing the result.
 ## Running instructions:
 
 > make
+
 > ./calc < example.ext
+
 ...(some output)...
+
 > make clean
