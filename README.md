@@ -24,3 +24,9 @@ This is a logic language which allows only conjunction and printing the result.
 	| ( \<expr\> and \<expr\> )
 
 
+## Running instructions:
+
+> make
+> ./calc < example.ext
+...(some output)...
+> make clean
